@@ -1,13 +1,22 @@
 h1 {
-    font-family: 'Satisfy', cursive;
+    font-family: 'Caveat', cursive;
     font-size: 40px;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: hotpink;
 }
 
-body {
-    background-image: url("assets/784228.jpg"); 
-    background-attachment: fixed; 
-    width: auto;
-    height: auto;
-    background-size: 100% 100%;
-    opacity: 0.6;
+/* body {
+       
+    
   }
+
+.bg {
+    background-image: url("assets/cloud.jpg"); 
+    background-attachment: fixed; 
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+ 
+     opacity: 0.6; 
+} */
